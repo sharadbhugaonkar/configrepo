@@ -17,4 +17,4 @@ spring:
     generate-ddl: false
 network:
   businessType: wholesale
-  locationType: local
+  locationType: global
